@@ -1,0 +1,15 @@
+{
+  "name": "jsx",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "@babel/core": "^7.5.4",
+    "@babel/plugin-transform-flow-strip-types": "^7.4.4",
+    "@babel/preset-env": "^7.5.4",
+    "@babel/preset-react": "^7.0.0"
+  },
+  "devDependencies": {}
+}
